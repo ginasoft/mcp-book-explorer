@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(del \"c:\\Programming\\mcp-book-explorer\\README.md\")"
-    ],
-    "deny": [],
-    "ask": []
-  }
-}
