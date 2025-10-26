@@ -31,7 +31,6 @@ env.bak/
 venv.bak/
 
 # IDEs
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -47,3 +46,4 @@ data/
 .coverage
 htmlcov/
 .tox/
+.gitignore
