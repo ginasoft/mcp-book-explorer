@@ -46,3 +46,4 @@ data/
 .coverage
 htmlcov/
 .tox/
+.gitignore
